@@ -7,4 +7,4 @@ spark = SparkSession.builder.getOrCreate()
 print(spark)
 
 
-spark.createDataFrame
+print(2+4)
