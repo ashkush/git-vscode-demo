@@ -1,1 +1,6 @@
 import scipy
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> were
